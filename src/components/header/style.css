@@ -1,0 +1,11 @@
+.site_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.get_for_free_btn {
+  padding: 10px 15px 10px 15px;
+  border-radius: 10px;
+  border: 0;
+}

@@ -1,0 +1,27 @@
+.accordion_text p {
+  color: #fff;
+}
+.accordion_item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: solid 1px rgba(255, 255, 255, 0.2);
+  padding: 16px 0px;
+}
+.accordion_inner_section {
+  width: 44%;
+}
+
+.accordion_section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ask_question_section {
+  padding: 80px 0;
+}
+
+.ask_question_heading h2 {
+  line-height: 60px;
+  letter-spacing: 2px;
+}

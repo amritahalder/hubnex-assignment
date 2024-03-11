@@ -1,0 +1,15 @@
+.footer_text p {
+  color: #808080;
+  font-size: 14px;
+  font-family: "DM Sans", sans-serif; 
+}
+.footer_section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.social_connect img {
+  margin-right: 7px;
+}

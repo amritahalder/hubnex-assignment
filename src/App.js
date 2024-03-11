@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import './global.css'
+import Header from './components/header'
+import Banner from './components/banner';
+import TrustedBy from './components/trusted_by';
+import Everything from './components/everything';
+import Intuitive from './components/intuitive';
+import AskQuestion from './components/ask_question';
+import GetInstant from './components/get_instant';
+import Footer from './components/footer';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Header/>
+      <Banner/>
+      <TrustedBy/>
+      <Everything/>
+      <Intuitive/>
+      <AskQuestion/>
+      <GetInstant/>
+      <Footer/>
+    </>
   );
 }
 
 export default App;
+
+
+// Trusted by the world’s most innovative teams

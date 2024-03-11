@@ -1,0 +1,49 @@
+.everything_heading h2 {
+  color: #fff;
+  font-size: 54px;
+  font-weight: 500;
+  font-family: "DM Sans", sans-serif;
+  margin: 0;
+}
+.everything_subheading p {
+  font-size: 22px;
+  color: #fff;
+  margin: 0;
+}
+.everything_text {
+  text-align: center;
+}
+.everything_subheading {
+  width: 28%;
+  display: inline-block;
+  text-align: center;
+}
+.box_heading span {
+  color: #fff;
+}
+.box_paragraph p {
+  color: #fff;
+}
+.box_section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.box_item {
+  /* width: 40%; */
+  text-align: center;
+  padding: 40px;
+  border: solid 1px #0D0D0D;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+.box_item:nth-child(3) {
+  margin-right: 0;
+}
+
+.everything_section {
+  padding: 100px 20px;
+}
+

@@ -1,0 +1,16 @@
+.testimonial_text p {
+  color: #7A7A7A;
+  font-size: 14px;
+}
+
+.trusted_by {
+  text-align: center;
+  padding: 0px 102px;
+}
+
+.testimonial_images {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 38px;
+}
