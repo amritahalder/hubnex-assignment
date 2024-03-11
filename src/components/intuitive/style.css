@@ -3,3 +3,12 @@
   justify-content: center;
   align-items: center;
 }
+
+@media only screen and (max-width: 767px) {
+  .intuitive_text {
+    padding: 0px 8px; 
+  }
+  .intuitive_image img{
+    width: 100%;
+  }
+}

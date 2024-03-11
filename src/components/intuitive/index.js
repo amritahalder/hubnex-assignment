@@ -4,7 +4,7 @@ import intuitiveImage from '../../assets/images/App Night.png'
 function Intuitive() {
   return (
     <section className='intuitive_section'>
-      <section className='everything_text'>
+      <section className='everything_text intuitive_text'>
         <div className='everything_heading'>
           <h2>Intuitive interface</h2>
         </div>

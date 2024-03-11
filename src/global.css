@@ -22,3 +22,7 @@ button {
   cursor: pointer;
 }
 
+.body_gradient {
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#000000+0,4f21a1+50,000000+100 */
+  background: linear-gradient(to bottom,  #000000 0%,#4f21a1 50%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}

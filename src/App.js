@@ -14,12 +14,14 @@ function App() {
     <>
       <Header/>
       <Banner/>
-      <TrustedBy/>
-      <Everything/>
-      <Intuitive/>
-      <AskQuestion/>
-      <GetInstant/>
-      <Footer/>
+      <div className='body_gradient'>
+        <TrustedBy/>
+        <Everything/>
+        <Intuitive/>
+        <AskQuestion/>
+        <GetInstant/>
+        <Footer/>
+      </div>
     </>
   );
 }
